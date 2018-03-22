@@ -1,0 +1,7 @@
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP2\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP2\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP2\TP2\TP2\bin\Debug\TP2.exe.config
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP2\TP2\TP2\bin\Debug\TP2.exe
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP2\TP2\TP2\bin\Debug\TP2.pdb
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP2\TP2\TP2\obj\Debug\TP2.exe
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP2\TP2\TP2\obj\Debug\TP2.pdb

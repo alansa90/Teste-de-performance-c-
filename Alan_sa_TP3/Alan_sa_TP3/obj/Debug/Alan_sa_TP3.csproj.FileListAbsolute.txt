@@ -1,0 +1,7 @@
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP3\Alan_sa_TP3\Alan_sa_TP3\bin\Debug\Alan_sa_TP3.exe.config
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP3\Alan_sa_TP3\Alan_sa_TP3\bin\Debug\Alan_sa_TP3.exe
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP3\Alan_sa_TP3\Alan_sa_TP3\bin\Debug\Alan_sa_TP3.pdb
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP3\Alan_sa_TP3\Alan_sa_TP3\obj\Debug\Alan_sa_TP3.csprojResolveAssemblyReference.cache
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP3\Alan_sa_TP3\Alan_sa_TP3\obj\Debug\Alan_sa_TP3.csproj.CoreCompileInputs.cache
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP3\Alan_sa_TP3\Alan_sa_TP3\obj\Debug\Alan_sa_TP3.exe
+G:\Faculdade\Desenvolvimento DOTNET\Desenvolvimento c#\Projetos\TPS\TP3\Alan_sa_TP3\Alan_sa_TP3\obj\Debug\Alan_sa_TP3.pdb
