@@ -1,0 +1,7 @@
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Adição\bin\Debug\Adição.exe.config
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Adição\bin\Debug\Adição.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Adição\bin\Debug\Adição.pdb
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Adição\obj\Debug\Adição.csprojResolveAssemblyReference.cache
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Adição\obj\Debug\Adição.csproj.CoreCompileInputs.cache
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Adição\obj\Debug\Adição.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Adição\obj\Debug\Adição.pdb

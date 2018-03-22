@@ -1,0 +1,6 @@
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Divisão\bin\Debug\Divisão.exe.config
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Divisão\bin\Debug\Divisão.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Divisão\bin\Debug\Divisão.pdb
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Divisão\obj\Debug\Divisão.csproj.CoreCompileInputs.cache
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Divisão\obj\Debug\Divisão.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Divisão\obj\Debug\Divisão.pdb

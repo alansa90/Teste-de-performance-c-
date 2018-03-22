@@ -1,0 +1,6 @@
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Multiplicação\bin\Debug\Multiplicação.exe.config
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Multiplicação\bin\Debug\Multiplicação.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Multiplicação\bin\Debug\Multiplicação.pdb
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Multiplicação\obj\Debug\Multiplicação.csproj.CoreCompileInputs.cache
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Multiplicação\obj\Debug\Multiplicação.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Multiplicação\obj\Debug\Multiplicação.pdb

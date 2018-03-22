@@ -1,0 +1,6 @@
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Subtração\bin\Debug\Subtração.exe.config
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Subtração\bin\Debug\Subtração.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Subtração\bin\Debug\Subtração.pdb
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Subtração\obj\Debug\Subtração.csproj.CoreCompileInputs.cache
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Subtração\obj\Debug\Subtração.exe
+G:\Faculdade\Desenvolvimento c#\TPS\TP1\TP1\Subtração\obj\Debug\Subtração.pdb
