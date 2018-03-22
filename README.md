@@ -1,4 +1,4 @@
-# Teste-de-performance-c-
+# Treinamento C#
 Teste pratico de aprendizagem de c#
 
 Introdução a linguagem C#
